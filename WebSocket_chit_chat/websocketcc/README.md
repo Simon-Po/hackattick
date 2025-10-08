@@ -6,7 +6,7 @@ I built a small Elixir app that automates the WebSocket chit chat challenge on H
 
 The helper is a lightweight GenServer (`ResSender`). Once it receives the secret it posts the result back to Hackattic's `/solve` endpoint, again using `Req`, and prints the JSON response so I can confirm that the submission landed.
 
-Thisfetch token, run the WebSocket timing loop, then report the answer—covers the entire handshake required by the challenge, so kicking off `Websocketcc.start/0` completes the exercise end to end.
+Thisfetch token, run the WebSocket timing loop, then report the answer,covers the entire handshake required by the challenge, so kicking off `Websocketcc.start/0` completes the exercise end to end.
 
 Beam is the perfect plattform for a Challenge like this the ease of using Elixir keeps suprising me.
 
