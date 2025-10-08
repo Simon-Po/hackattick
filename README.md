@@ -10,7 +10,8 @@ My repos for https://hackattic.com/challenges
 - [ ] The one with Redis  
 - [ ] Visual basic math  
 - [ ] A global presence  
-- [ ] WebSocket chit chat  
+- [x] WebSocket chit chat  
+  - Solved in elixir, might also try go
 - [ ] Collision course  
 - [ ] Hosting git  
 - [ ] Jotting JWTs  
