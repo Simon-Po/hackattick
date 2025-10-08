@@ -1,7 +1,7 @@
 My repos for https://hackattic.com/challenges
 
 - [ ] Mini miner  
-- [ ] Help me unpack  
+- [x] Help me unpack  
 - [ ] Tales of SSL  
 - [ ] Dockerized solutions  
 - [ ] Password hashing  
