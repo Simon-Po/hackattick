@@ -5,7 +5,7 @@ My repos for https://hackattic.com/challenges
 - [ ] Tales of SSL  
 - [ ] Dockerized solutions  
 - [ ] Password hashing  
-- [ ] Touch-Tone dialing  
+- [x] Touch-Tone dialing, This was hard
 - [ ] Basic face detection  
 - [ ] The one with Redis  
 - [ ] Visual basic math  
