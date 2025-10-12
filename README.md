@@ -11,7 +11,7 @@ My repos for https://hackattic.com/challenges
 - [ ] Visual basic math  
 - [ ] A global presence  
 - [x] WebSocket chit chat  
-  - Solved in elixir, might also try go
+  - ~Solved in elixir, might also try go~ done 
 - [ ] Collision course  
 - [ ] Hosting git  
 - [ ] Jotting JWTs  
